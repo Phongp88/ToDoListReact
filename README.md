@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple ReactJs Todo list to understand the basics of creating components and changing State.
 
 ## Available Scripts
 
